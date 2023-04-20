@@ -4,7 +4,7 @@ author: Orbiter Finance
 fontsize: 9pt
 date: \textit{Pre-release, \today}
 abstract: |
-	Protocol Design
+	With the continuous expansion and development of the second-layer network ecology of Ethereum, such as Arbitrum, Optimism, zkSync, StarkNet, etc.
 urlcolor: cyan
 bibliography: yellowpaper.bib
 classoption:
